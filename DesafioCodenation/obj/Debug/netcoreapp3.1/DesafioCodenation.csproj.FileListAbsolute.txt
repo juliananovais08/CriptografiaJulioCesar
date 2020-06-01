@@ -1,0 +1,13 @@
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\bin\Debug\netcoreapp3.1\DesafioCodenation.exe
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\obj\Debug\netcoreapp3.1\DesafioCodenation.csprojAssemblyReference.cache
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\obj\Debug\netcoreapp3.1\DesafioCodenation.AssemblyInfoInputs.cache
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\obj\Debug\netcoreapp3.1\DesafioCodenation.AssemblyInfo.cs
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\bin\Debug\netcoreapp3.1\DesafioCodenation.deps.json
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\bin\Debug\netcoreapp3.1\DesafioCodenation.runtimeconfig.json
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\bin\Debug\netcoreapp3.1\DesafioCodenation.runtimeconfig.dev.json
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\bin\Debug\netcoreapp3.1\DesafioCodenation.dll
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\bin\Debug\netcoreapp3.1\DesafioCodenation.pdb
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\obj\Debug\netcoreapp3.1\DesafioCodenation.csproj.CopyComplete
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\obj\Debug\netcoreapp3.1\DesafioCodenation.dll
+C:\ESTUDOS\CriptografiaJulioCesar\DesafioCodenation\obj\Debug\netcoreapp3.1\DesafioCodenation.pdb
